@@ -1,6 +1,6 @@
 {
   "name": "codemirror-mode-apache",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A CodeMirror mode for Apache configurations.",
   "main": "apache.js",
   "scripts": {
