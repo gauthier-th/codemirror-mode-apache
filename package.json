@@ -1,0 +1,19 @@
+{
+  "name": "codemirror-mode-apache",
+  "version": "1.0.0",
+  "description": "A CodeMirror mode for Apache configurations.",
+  "main": "apache.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gauthier-th/codemirror-mode-apache.git"
+  },
+  "author": "gauthier-th",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gauthier-th/codemirror-mode-apache/issues"
+  },
+  "homepage": "https://github.com/gauthier-th/codemirror-mode-apache#readme"
+}
